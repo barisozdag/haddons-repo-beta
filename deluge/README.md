@@ -26,7 +26,7 @@ If you are more interested in stable releases of my add-ons:
 <https://github.com/barisozdag/haddons-repo>
 
 [deluge]: https://deluge-torrent.org/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.2.1-blue.svg
-[release]: https://github.com/barisozdag/addon-deluge/tree/v0.2.1
+[release-shield]: https://img.shields.io/badge/version-v0.3.0-blue.svg
+[release]: https://github.com/barisozdag/addon-deluge/tree/v0.3.0
